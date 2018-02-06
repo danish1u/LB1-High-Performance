@@ -1,0 +1,70 @@
+
+.contentPadd.txtPage,
+.ui-dialog,
+.ui-dialog-titlebar,
+.cart,
+.ui-progressbar,
+.ui-datepicker,
+.result1_top, .result2_top, .contentInfoText.un, .contentInfoBlock	{
+	-moz-border-radius: 5px; /* Firefox */
+  	-webkit-border-radius: 5px; /* Safari, Chrome */
+ 	-khtml-border-radius: 5px; /* KHTML */
+  	border-radius: 5px;
+}
+.cart_products_options,
+CHECKBOX, RADIO, textarea ,
+.fieldValue  input	{
+	-moz-border-radius: 5px; /* Firefox */
+  	-webkit-border-radius: 5px; /* Safari, Chrome */
+ 	-khtml-border-radius: 5px; /* KHTML */
+  	border-radius: 5px;
+}
+.contentPadd.block{
+	-moz-border-radius: 8px; /* Firefox */
+  	-webkit-border-radius: 8px; /* Safari, Chrome */
+ 	-khtml-border-radius: 8px; /* KHTML */
+  	border-radius: 8px;
+}
+.contentPadd.rew{
+	-moz-border-radius: 5px; /* Firefox */
+  	-webkit-border-radius: 5px; /* Safari, Chrome */
+ 	-khtml-border-radius: 5px; /* KHTML */
+  	border-radius: 5px;
+}
+.contentPadd.rew2{
+	-moz-border-radius: 5px; /* Firefox */
+  	-webkit-border-radius: 5px; /* Safari, Chrome */
+ 	-khtml-border-radius: 5px; /* KHTML */
+  	border-radius: 5px;
+}
+.contentInfoText.marg-bottom{ -moz-border-radius-topleft: 8px; -webkit-border-top-left-radius: 8px; border-top-left-radius: 8px; -moz-border-radius-topright: 8px; -webkit-border-top-right-radius: 8px; border-bottom-right-radius: 8px;}
+.contentPadd.radius .contentInfoText.marg-bottom{ -moz-border-radius-topleft:0px; -webkit-border-top-left-radius:0px; border-top-left-radius:0px; -moz-border-radius-topright:0px; -webkit-border-top-right-radius:0px; border-bottom-right-radius:0px;}
+.contentInfoText	{
+	 -moz-border-radius-bottomleft: 8px; -webkit-border-bottom-left-radius: 8px; border-bottom-left-radius: 8px; -moz-border-radius-bottomright: 8px; -webkit-border-bottom-right-radius: 8px; border-bottom-right-radius: 8px;
+	 
+}
+.contentPadd.loginPage .contentInfoText.marg-bottom{ -moz-border-radius-topleft:0px; -webkit-border-top-left-radius:0px; border-top-left-radius:0px; -moz-border-radius-topright:0px; -webkit-border-top-right-radius:0px; border-bottom-right-radius:0px;}
+.contentPadd.indent .contentInfoText.marg-bottom{ -moz-border-radius-topleft:0px; -webkit-border-top-left-radius:0px; border-top-left-radius:0px; -moz-border-radius-topright:0px; -webkit-border-top-right-radius:0px; border-bottom-right-radius:0px;}
+.contentPadd.padd-8 .contentInfoText.marg-bottom{ -moz-border-radius-topleft:0px; -webkit-border-top-left-radius:0px; border-top-left-radius:0px; -moz-border-radius-topright:0px; -webkit-border-top-right-radius:0px; border-bottom-right-radius:0px;}
+.bg_button2 .button-t,
+.bg_button2 .button-tl,						
+.bg_button2 .button-tr,						
+.bg_button2 .button-bl,						
+.bg_button2 .button-br						{
+	-webkit-transition: all .5s ease;
+	-moz-transition: all .5s ease;
+	-o-transition: all .5s ease;
+}
+.cart th.th1	{
+	-moz-border-radius-topleft: 8px; -webkit-border-top-left-radius: 8px; border-top-left-radius: 8px;
+}
+.cart th.th3	{
+	-moz-border-radius-topright: 8px; -webkit-border-top-right-radius: 8px; border-top-right-radius: 8px;
+}
+
+.sub_categories{
+	-moz-border-radius: 8px; /* Firefox */
+  	-webkit-border-radius: 8px; /* Safari, Chrome */
+ 	-khtml-border-radius: 8px; /* KHTML */
+  	border-radius: 8px;
+}
