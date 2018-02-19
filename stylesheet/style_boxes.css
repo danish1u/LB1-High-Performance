@@ -2,7 +2,7 @@
 /* ************************************************************************************* */
 .infoHeading,
 .infoBoxWrapper .infoBoxHeading  			{color:#fefefe; font-size:1.16em; line-height:1.4em; font-weight:bold; text-transform:uppercase;
-  											 overflow:hidden;padding:10px 0px 11px 19px;margin-bottom:0px;background:url('../images/bg-heading.png') 0px 0px repeat-x transparent;}
+  											 overflow:hidden;padding:10px 0px 11px 19px;margin-bottom:0px;background:url('http://laptopbattery1.us/images/bg-heading.png') 0px 0px repeat-x transparent;}
 .infoBoxWrapper .infoBoxHeading a 			{color:#fefefe;}
 
 .infoBoxWrapper.box3 .infoBoxHeading  		{padding:10px 0px 11px 19px;}
@@ -60,7 +60,7 @@
 .infoBoxContents ul li .div a{background:url('../images/marker.png') 26px 11px no-repeat transparent; padding-left:43px; color:#6e6e6e;}
 .infoBoxContents ul li .div a:hover{ font-weight:normal; color:#000000;background:url('../images/marker2.png') 26px 11px no-repeat transparent; padding-left:43px;}
 .infoBoxContents a						{font-size:1em;}
-.infoBoxContents li 					{font-size:1em;line-height:1.2em;background:url('../images/tail-cat.png') 0px 0px repeat; vertical-align:top; overflow:hidden; margin-top:1px; }
+.infoBoxContents li 					{font-size:1em;line-height:1.2em;background:url('http://laptopbattery1.us/images/tail-cat.png') 0px 0px repeat; vertical-align:top; overflow:hidden; margin-top:1px; }
 .infoBoxContents li a					{color:#d3d1d1; text-decoration:none;
 									 	 padding:8px 0px 9px 20px; display:block; line-height:1.2em;}
 .infoBoxContents li a:hover				{color:#ff0000; text-decoration:none;}
