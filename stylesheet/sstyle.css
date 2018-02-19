@@ -531,18 +531,18 @@ button										{height:29px; font-size:12px; line-height:15px !important; font-
 /* ************************************************************************************* */
 /* ************************************************************************************* */
 /* ************************************************************************************* */
-.bg_button22 .button-c					 {background:url('../images/button_c.gif') repeat-x  0 0; margin:0 5px}
-.bg_button22 .button-r						{background:url('../images/button_r.png') 100% 0px repeat-y transparent;}
-.bg_button22 .button-l						{background:url('../images/button_l.png') 0px 0px repeat-y transparent; }
+.bg_button22 .button-c					 {background:url('http://laptopbattery1.us/images/button_c.gif') repeat-x  0 0; margin:0 5px}
+.bg_button22 .button-r						{background:url('http://laptopbattery1.us/images/button_r.png') 100% 0px repeat-y transparent;}
+.bg_button22 .button-l						{background:url('http://laptopbattery1.us/images/button_l.png') 0px 0px repeat-y transparent; }
 /* ************************************************************************************* */
 .bg_button22 .button-padd					{padding:0; overflow:hidden; height:31px;}
 
 .bg_button22 .button-padd span					{color:#2a2929; font-size:13px;text-decoration:none; white-space:nowrap; line-height:1.6em;}											 
 /* ************************************************************************************* */
 /* ************************************************************************************* */
-.bg_button22-act .button-c					{background:url('../images/button_c-act.gif') 0px 0px repeat-x;margin:0 5px }
-.bg_button22-act .button-r					{background:url('../images/button_r-act.png') 100% 0px repeat-y transparent;}
-.bg_button22-act .button-l					{background:url('../images/button_l-act.png') 0px 0px repeat-y transparent;}
+.bg_button22-act .button-c					{background:url('http://laptopbattery1.us/images/button_c.gif') 0px 0px repeat-x;margin:0 5px }
+.bg_button22-act .button-r					{background:url('http://laptopbattery1.us/images/button_r.png') 100% 0px repeat-y transparent;}
+.bg_button22-act .button-l					{background:url('http://laptopbattery1.us/images/button_l.png') 0px 0px repeat-y transparent;}
 /* ************************************************************************************* */
 .bg_button22-act .button-padd				{padding:0; overflow:hidden;height:31px;}
 
@@ -562,9 +562,9 @@ button										{height:29px; font-size:12px; line-height:15px !important; font-
 background:url('../images/button_t.gif') repeat-x  0 0 transparent;
 }
 
-.bg_button2 .button-c						{background:url('../images/button_c-act.gif') 0px 0px repeat-x;margin:0 5px}
-.bg_button2 .button-r						{background:url('../images/button_r-act.png') 100% 0px repeat-y transparent;}
-.bg_button2 .button-l						{background:url('../images/button_l-act.png') 0px 0px repeat-y transparent;}
+.bg_button2 .button-c						{background:url('http://laptopbattery1.us/images/button_c-act.gif') 0px 0px repeat-x;margin:0 5px}
+.bg_button2 .button-r						{background:url('http://laptopbattery1.us/images/button_r-act.png') 100% 0px repeat-y transparent;}
+.bg_button2 .button-l						{background:url('http://laptopbattery1.us/images/button_l-act.png') 0px 0px repeat-y transparent;}
 /* ************************************************************************************* */
 .bg_button2 .button-padd					{padding:0; overflow:hidden;height:32px;}
 
@@ -572,9 +572,9 @@ background:url('../images/button_t.gif') repeat-x  0 0 transparent;
 .bg_button2 .button-padd span					{color:#fff; font-size:12px;text-decoration:none; white-space:nowrap;line-height:1.6em; }
 /* ************************************************************************************* */
 /* ************************************************************************************* */
-.bg_button2-act .button-c					 {background:url('../images/button_c.gif') repeat-x  0 0; margin:0 5px}
-.bg_button2-act .button-r					{background:url('../images/button_r.png') 100% 0px repeat-y transparent;}
-.bg_button2-act .button-l					{background:url('../images/button_l.png') 0px 0px repeat-y transparent;}
+.bg_button2-act .button-c					 {background:url('http://laptopbattery1.us/images/button_c-act.gif') repeat-x  0 0; margin:0 5px}
+.bg_button2-act .button-r					{background:url('http://laptopbattery1.us/images/button_r-act.png') 100% 0px repeat-y transparent;}
+.bg_button2-act .button-l					{background:url('http://laptopbattery1.us/images/button_l-act.png') 0px 0px repeat-y transparent;}
 /* ************************************************************************************* */
 .bg_button2-act .button-padd				{padding:0; overflow:hidden;height:32px;}
 
