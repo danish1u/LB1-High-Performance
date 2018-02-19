@@ -11,23 +11,6 @@
 	color: #FF0000;
 	text-decoration: underline;
 	}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 td { font-size:12px; }
 
 .info-tabs-head {
@@ -169,29 +152,6 @@ margin: 0 0 5px 0;
 .bb-terms-sec { background-color: #777; color: #fff; font-size: 18px; font-weight: bold; padding-left:10px; line-height: 24px; margin-bottom: 10px; text-align: left; }
 p.bb-terms-q { font: bold 13px Verdana, Arial, Helvetica, sans-serif; text-decoration: underline; padding-bottom: 0; }
 .bb-sep { margin-top: 40px; padding-bottom: 40px; border-top: 1px solid #ccc; }
-
-
-                                                                                                                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 h1 								{padding:12px 10px 16px 19px;margin: 0px 0px 0px 0px;overflow:hidden;
@@ -363,20 +323,14 @@ tr .cart_price							{border:1px solid #e5e5e5; border-width:0px 1px 1px 1px;}
 /* ************************************************************************************* */
 .result1_top									{margin:17px 0px 0px 0px;border:0px solid #e5e5e5;}
 .result1_bottom									{border-bottom:0px solid #e5e5e5;}
-
 .result2_top									{margin:0px 0px 17px 0px;border:0px solid #e5e5e5;}
 .result2_bottom									{border-bottom:0px solid #e5e5e5; }
-
 .result_top_padd div  							{padding:10px 16px 10px 16px;}
 .result_bottom_padd div							{padding:10px 16px 10px 16px;}
-
 .result_top_padd								{margin:0px;}
 .result_bottom_padd								{margin:0px;}
-
 .wrapper_content-padd.un .result1_top			{margin:20px 26px 20px 26px;}
 .wrapper_content-padd.un .result2_top			{margin:20px 26px 20px 26px;}
-
-
 .result   										{color:#888888; font-size:1em; line-height:1.2em; background:#FFF; }
 .result span 		   							{color:#000;}
 .result strong   								{font-weight:normal;}
@@ -499,22 +453,13 @@ h3 .inputRequirement 				{padding-top: 0px; font-weight:normal; font-size:.8em}
 .prods_info .options select		{margin: 0px 0px 0px 10px; width:160px; float:left;}
 .prods_info .options			{padding:20px 0px 10px 0px; border:1px solid #e5e5e5; border-width:1px 0px 0px 0px; margin-top:10px;}
 .prods_info .options br			{line-height:10px;}
-.prods_info .options-title		{color:#000;font-size:1.1em; font-weight:bold;
-								 padding: 0px 0px 10px 0px;}
-
+.prods_info .options-title		{color:#000;font-size:1.1em; font-weight:bold; padding: 0px 0px 10px 0px;}
 .prods_info .desc_padd			{padding: 17px 0px 17px 0px; border-top:1px solid #e5e5e5; border-bottom:1px solid #e5e5e5; }
-
 .prods_info .data_padd			{padding:0px 0px 17px 0px;vertical-align:middle; text-align:left; border-bottom:1px solid #e5e5e5;}
-.prods_info .desc_padd.add		{border-bottom:0px solid #e5e5e5; }
-								 
+.prods_info .desc_padd.add		{border-bottom:0px solid #e5e5e5; }							 
 .prods_info .data_add			{padding: 0px 0px 17px 0px;}
-
-
-
-.prods_info .desc2_padd					{padding: 10px 0px 10px 0px; border-top:1px solid #e5e5e5; border-bottom:1px solid #e5e5e5; border-top:1px solid #e5e5e5; }
-
+.prods_info .desc2_padd			{padding: 10px 0px 10px 0px; border-top:1px solid #e5e5e5; border-bottom:1px solid #e5e5e5; border-top:1px solid #e5e5e5; }
 h2.price								{padding: 6px 0px 14px 0px; overflow:hidden;}
-
 .prods_info .stars_padd					{padding: 14px 0px 22px 0px;display:block;}
 .prods_info .stars_padd	img				{margin: 0px 5px -5px 5px;}
 
@@ -717,15 +662,10 @@ background:url('../images/button_t.gif') repeat-x  0 0 transparent;
 .wrapper_pic_tr,
 .wrapper_pic_bl,
 .wrapper_pic_br				{background:url(../images/wrapper_pic.png) no-repeat;}
-
 #row-1 .wrapper_pic_tl,
 #row-1 .wrapper_pic_tr,
 #row-1 .wrapper_pic_bl,
 #row-1 .wrapper_pic_br				{background:url(../images/wrapper_pic.png) no-repeat;}
-
-
-
-
 #row-1 .wrapper_pic_tl				{background-position:0px 0px;display:inline-block;position:relative;}
 #row-1 .wrapper_pic_tr				{background-position:100% 0px;display:inline-block;position:relative;}
 #row-1 .wrapper_pic_bl				{background-position:0px 100%;display:inline-block;position:relative;}
@@ -734,8 +674,6 @@ background:url('../images/button_t.gif') repeat-x  0 0 transparent;
 #row-1 .wrapper_pic_tr:hover				{background-position:100% 0px;display:inline-block;position:relative;}
 #row-1 .wrapper_pic_bl:hover				{background-position:0px 100%;display:inline-block;position:relative;}
 #row-1 .wrapper_pic_br:hover				{background-position:100% 100%;display:inline-block;position:relative;}
-
-
 .wrapper_pic_tl				{background-position:0px 0px;display:inline-block;position:relative;}
 .wrapper_pic_tr				{background-position:100% 0px;display:inline-block;position:relative;}
 .wrapper_pic_bl				{background-position:0px 100%;display:inline-block;position:relative;}
@@ -824,7 +762,7 @@ vertical-align:top;
 }
 
 .infoBoxWrapper.list .infoBoxContents .categories li {
-	background-image: url(../images/red.png);
+	background-image: url('http://laptopbattery1.us/images/red.png');
 	background-repeat: no-repeat
 }
 #storebody {
@@ -846,12 +784,6 @@ vertical-align:top;
 
 	
 }
-
-
-
-
-
-
 #glbfooter {
 	display: none;
 }
